@@ -1,4 +1,4 @@
-# FINALS LAB TASK 3.1
+# FINALS LAB TASK 4
 This Lab Task involves on how to use a MySQL Clause 
 
 ## Instructions
